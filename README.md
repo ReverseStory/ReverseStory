@@ -1,6 +1,6 @@
 For everyone who has come across or checked out my Github.
 Currently, I am doing a challenge with 12Weeks about Program
-Well, if you want to decode or partiparte along the feal free
+Well, if you want to decode or partiparte along the ride and feal free
 to message me on Discord :
 @Reverse#5006
 P/s : Every Week A Puzzle Will Appear At My Profile On Discord
