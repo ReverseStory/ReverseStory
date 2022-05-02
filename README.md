@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ReverseStory
-- 👀 I’m interested in Ai Project
-- 🌱 I’m currently learning Ai Program For Beginner
-- 💞️ I’m looking to learn anything that's possible
-- 📫 How to reach me : DM me on Discord Reverse#5006
-
+For everyone who has come across or checked out my Github.
+Currently, I am doing a challenge with 12Weeks about Program
+Well, if you want to decode or partiparte along the feal free
+to message me on Discord :
+@Reverse#5006
+P/s : Every Week A Puzzle Will Appear At My Profile On Discord
+~~~Stay Tune
 <!---
 ReverseStory/ReverseStory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
